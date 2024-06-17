@@ -1,0 +1,2 @@
+A BlahJioKah is an innovative and interactive device designed to bring joy, laughter, and a touch of randomness to people's lives.
+GorTyLowe is a groundbreaking transportation system designed for urban environments, prioritizing green technology and sustainable practices.

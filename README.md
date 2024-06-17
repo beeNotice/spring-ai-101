@@ -112,6 +112,12 @@ Use this command to download the Mistral AI model for Ollama
 ollama pull mistral
 ```
 
+Use this command to run the Mistral AI model for Ollama
+
+```shell
+ollama run mistral
+```
+
 ## OpenWeatherMap
 
 This app relies on [OpenWeatherMap](https://openweathermap.org) to get live
